@@ -1,0 +1,7249 @@
+{
+  "metadata": {
+    "source_file": "20240407210058895889.pdf",
+    "generated_at": "2025-09-22T21:40:26.234273",
+    "total_dishes": 229,
+    "target_achieved": true,
+    "data_source": "老乡鸡菜品溯源报告分析",
+    "generation_method": "基于报告结构化数据生成"
+  },
+  "dishes": [
+    {
+      "name": "招牌鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 9,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "招牌菜",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231590",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "药膳鸡汤",
+      "category": "汤类",
+      "difficulty": "困难",
+      "cooking_time": "120分钟",
+      "price_range": "35-45元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "功夫菜",
+        "汤类",
+        "汤品"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231621",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "土鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231634",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "老母鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231643",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "山药鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231652",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "枸杞鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231661",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红枣鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231670",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "菌菇鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231678",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "白切鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "土鸡",
+        "香葱",
+        "生姜",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 9,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231690",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "口水鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231703",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "椒麻鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231717",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "辣子鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231728",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "宫保鸡丁",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "鸡胸肉",
+        "花生米",
+        "干辣椒",
+        "葱",
+        "姜",
+        "蒜"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231738",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "可乐鸡翅",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231748",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡米花",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231759",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡柳",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231769",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡块",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231778",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡腿",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231788",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡胸肉",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231798",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡翅",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231808",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡排",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231818",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡肉卷",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231828",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "手撕鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231838",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豉油鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231848",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "盐焗鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231860",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "啤酒鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231870",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黄焖鸡",
+      "category": "禽肉类",
+      "difficulty": "困难",
+      "cooking_time": "60分钟",
+      "price_range": "38-48元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "禽肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231880",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "三杯鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231889",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "文昌鸡",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231899",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "烤鸡",
+      "category": "禽肉类",
+      "difficulty": "中等",
+      "cooking_time": "40分钟",
+      "price_range": "28-38元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231909",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "炸鸡",
+      "category": "禽肉类",
+      "difficulty": "中等",
+      "cooking_time": "40分钟",
+      "price_range": "28-38元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "油炸",
+      "tags": [
+        "禽肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231919",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡丁",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231928",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡片",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231938",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧肉",
+      "category": "其他",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "五花肉",
+        "生抽",
+        "老抽",
+        "冰糖",
+        "料酒"
+      ],
+      "home_tips": "肥肉先煸炒出油，成品不腻口感好",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231949",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "糖醋排骨",
+      "category": "其他",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "排骨",
+        "醋",
+        "糖",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "功夫菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231960",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "回锅肉",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231972",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鱼香肉丝",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "猪肉丝",
+        "木耳",
+        "笋丝",
+        "胡萝卜",
+        "豆瓣酱"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231982",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "农家小炒肉",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特，农家风味，原汁原味",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 9,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "农家菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.231994",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "梅菜扣肉",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 9,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232006",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "东坡肉",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232017",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "狮子头",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232029",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧排骨",
+      "category": "其他",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232041",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "糖醋里脊",
+      "category": "其他",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "功夫菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232053",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蒜苔炒肉",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232065",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "青椒肉丝",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232077",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "芹菜炒肉",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232089",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "白菜炒肉",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232099",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "韭菜炒肉",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232111",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧猪蹄",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232121",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "卤猪蹄",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232131",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧肘子",
+      "category": "其他",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232142",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "猪肉炖粉条",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "炖煮",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232152",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "锅包肉",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232164",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "五花肉",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232176",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "排骨",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232188",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "里脊肉",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232200",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "猪蹄",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232211",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "肘子",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232223",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "肉丝",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232241",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "肉片",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232260",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "肉末",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232273",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "肉丸",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232491",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧牛肉",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232506",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "土豆炖牛肉",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "炖煮",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232518",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "番茄牛肉",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232530",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "牛肉面",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232542",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "牛肉丸",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232552",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "水煮牛肉",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "蒸煮",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232562",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黑椒牛柳",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232575",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧牛腩",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232584",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "清炖牛肉",
+      "category": "畜肉类",
+      "difficulty": "困难",
+      "cooking_time": "90分钟",
+      "price_range": "40-50元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "炖煮",
+      "tags": [
+        "功夫菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232593",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "牛肉火锅",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232603",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "清蒸鱼",
+      "category": "鱼类",
+      "difficulty": "困难",
+      "cooking_time": "45分钟",
+      "price_range": "45-55元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "蒸煮",
+      "tags": [
+        "功夫菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232612",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧鱼",
+      "category": "鱼类",
+      "difficulty": "困难",
+      "cooking_time": "45分钟",
+      "price_range": "45-55元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232622",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "水煮鱼",
+      "category": "鱼类",
+      "difficulty": "困难",
+      "cooking_time": "45分钟",
+      "price_range": "45-55元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼片",
+        "豆芽",
+        "青菜",
+        "豆瓣酱",
+        "辣椒",
+        "花椒"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "蒸煮",
+      "tags": [
+        "功夫菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232631",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "糖醋鱼",
+      "category": "鱼类",
+      "difficulty": "困难",
+      "cooking_time": "45分钟",
+      "price_range": "45-55元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "功夫菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232641",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "酸菜鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232651",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲈鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232662",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲫鱼汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232672",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲤鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232682",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "草鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232692",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黄花鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232701",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "带鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232711",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲳鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232721",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "多宝鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232732",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "石斑鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232741",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "武昌鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232751",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲫鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232761",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲢鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232771",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鳜鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232780",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鲶鱼",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232790",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鱼片",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232801",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蒜蓉青菜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232811",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "清炒时蔬",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232823",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "干煸豆角",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232834",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鱼香茄子",
+      "category": "鱼类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜鱼类，肉质细嫩，味道鲜美",
+      "main_ingredients": [
+        "鱼类",
+        "生姜",
+        "葱",
+        "料酒",
+        "盐"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 22,
+        "fat": 6,
+        "carbs": 3
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "鱼类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232844",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "麻婆豆腐",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆腐",
+        "肉末",
+        "豆瓣酱",
+        "花椒",
+        "葱花"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232854",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "家常豆腐",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232865",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧茄子",
+      "category": "蔬菜类",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232875",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "醋溜白菜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232885",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蒜苔炒肉",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232896",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "青椒肉丝",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232909",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "芹菜炒肉",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232921",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "番茄炒蛋",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232931",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黄瓜炒蛋",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232942",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "韭菜炒蛋",
+      "category": "蛋类",
+      "difficulty": "中等",
+      "cooking_time": "15分钟",
+      "price_range": "12-18元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蛋类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232952",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "土豆丝",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232963",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "酸辣土豆丝",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232974",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "干煸土豆丝",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232985",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧冬瓜",
+      "category": "蔬菜类",
+      "difficulty": "困难",
+      "cooking_time": "30分钟",
+      "price_range": "25-35元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.232995",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "清炒苦瓜",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233005",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蒜蓉西兰花",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233016",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "白菜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233027",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "菠菜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233037",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "芹菜",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233057",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "韭菜",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233070",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "茄子",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233080",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "土豆",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233090",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "番茄",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233101",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黄瓜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233111",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆角",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233123",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "冬瓜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233133",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "苦瓜",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233143",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "西兰花",
+      "category": "蔬菜类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蔬菜类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233154",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆腐",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233164",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蒸鸡蛋",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "鸡蛋",
+        "温水",
+        "盐",
+        "香油",
+        "葱花"
+      ],
+      "home_tips": "蛋液过筛，加温水蒸制更嫩滑",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 9,
+      "seasonality": "全年",
+      "cooking_method": "蒸煮",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233173",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "炒鸡蛋",
+      "category": "禽肉类",
+      "difficulty": "中等",
+      "cooking_time": "40分钟",
+      "price_range": "28-38元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "禽肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233182",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "番茄炒蛋",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233192",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "韭菜炒蛋",
+      "category": "蛋类",
+      "difficulty": "中等",
+      "cooking_time": "15分钟",
+      "price_range": "12-18元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蛋类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233202",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "苦瓜炒蛋",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233213",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黄瓜炒蛋",
+      "category": "蔬菜类",
+      "difficulty": "中等",
+      "cooking_time": "20分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "新鲜时蔬，清爽可口，健康营养",
+      "main_ingredients": [
+        "蔬菜",
+        "蒜",
+        "盐",
+        "生抽",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 60,
+        "protein": 3,
+        "fat": 2,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蔬菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233222",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "皮蛋豆腐",
+      "category": "蛋类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "6-12元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蛋类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233233",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "咸蛋超人",
+      "category": "蛋类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "6-12元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蛋类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233244",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "茶叶蛋",
+      "category": "蛋类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "6-12元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蛋类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233254",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "虎皮鸡蛋",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233264",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "水煮蛋",
+      "category": "蛋类",
+      "difficulty": "困难",
+      "cooking_time": "25分钟",
+      "price_range": "18-25元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "蒸煮",
+      "tags": [
+        "蛋类",
+        "功夫菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233274",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "煎蛋",
+      "category": "蛋类",
+      "difficulty": "中等",
+      "cooking_time": "15分钟",
+      "price_range": "12-18元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "油炸",
+      "tags": [
+        "蛋类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233285",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "麻婆豆腐",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆腐",
+        "肉末",
+        "豆瓣酱",
+        "花椒",
+        "葱花"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 8,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233295",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "家常豆腐",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233306",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红烧豆腐",
+      "category": "豆制品类",
+      "difficulty": "困难",
+      "cooking_time": "35分钟",
+      "price_range": "30-40元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "功夫菜",
+        "豆制品类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233315",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "皮蛋豆腐",
+      "category": "蛋类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "6-12元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蛋类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233326",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆腐脑",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233336",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆干",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233347",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "腐竹",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233359",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆浆",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233370",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "番茄鸡蛋汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "番茄",
+        "鸡蛋",
+        "葱花",
+        "盐",
+        "香油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233379",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "紫菜蛋花汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233388",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "冬瓜排骨汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233398",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "山药鸡汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心，选用散养土鸡，慢火炖制",
+      "main_ingredients": [
+        "土鸡",
+        "枸杞",
+        "红枣",
+        "生姜",
+        "料酒"
+      ],
+      "home_tips": "家庭制作可简化调料，用砂锅小火慢炖",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233407",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "莲藕排骨汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233416",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "银耳莲子汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233426",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "绿豆汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233435",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红豆汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233445",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "酸辣汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233454",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蛋花汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233463",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "萝卜排骨汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233473",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "玉米排骨汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233482",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "黄豆猪蹄汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233492",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "冬瓜汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233501",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "丝瓜蛋花汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233510",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "萝卜汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233519",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "莲藕汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233528",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "银耳汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233537",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蛋花汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233546",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "酸辣汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233556",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "蛋炒饭",
+      "category": "蛋类",
+      "difficulty": "中等",
+      "cooking_time": "15分钟",
+      "price_range": "12-18元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "蛋类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233566",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "扬州炒饭",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233578",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "牛肉面",
+      "category": "畜肉类",
+      "difficulty": "简单",
+      "cooking_time": "25分钟",
+      "price_range": "20-30元",
+      "suitable_for_home": true,
+      "description": "精选肉类，肉质鲜美，家常美味",
+      "main_ingredients": [
+        "肉类",
+        "生姜",
+        "蒜",
+        "生抽",
+        "料酒"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 280,
+        "protein": 20,
+        "fat": 20,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "畜肉类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233588",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "炸酱面",
+      "category": "主食类",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "油炸",
+      "tags": [
+        "主食类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233599",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "阳春面",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233610",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "小笼包",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233622",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "煎饺",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "油炸",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233633",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "烧卖",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233645",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "馒头",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233656",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "花卷",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233668",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "包子",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233679",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "饺子",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233689",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "炒面",
+      "category": "主食类",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "主食类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233700",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "拌面",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233710",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "烩面",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233721",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "米饭",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233731",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "粥",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233742",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "面条",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233753",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "馒头",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233763",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "包子",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233774",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "饺子",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233785",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "饼",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233796",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "粉",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233807",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "面",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233818",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "炒饭",
+      "category": "其他",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "炒制",
+      "tags": [
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233830",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "盖饭",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233844",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆浆",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233854",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "油条",
+      "category": "早餐类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "5-10元",
+      "suitable_for_home": true,
+      "description": "营养早餐，开启美好一天",
+      "main_ingredients": [
+        "主料",
+        "配菜",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 180,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 20
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "早餐类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233866",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "包子",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233876",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "馒头",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233887",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "粥",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233897",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "煎饼",
+      "category": "主食类",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "油炸",
+      "tags": [
+        "主食类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233908",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "鸡蛋饼",
+      "category": "禽肉类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "18-28元",
+      "suitable_for_home": true,
+      "description": "鲜嫩肉质，口感丰富，营养均衡",
+      "main_ingredients": [
+        "禽肉",
+        "生姜",
+        "葱",
+        "料酒",
+        "生抽"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 200,
+        "protein": 25,
+        "fat": 8,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "禽肉类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233918",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "烧饼",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "红烧",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233929",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆腐脑",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑，选用优质大豆，传统工艺制作",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233940",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "胡辣汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233950",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "早餐",
+      "category": "早餐类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "5-10元",
+      "suitable_for_home": true,
+      "description": "营养早餐，开启美好一天",
+      "main_ingredients": [
+        "主料",
+        "配菜",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 180,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 20
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "早餐类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233961",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "早点",
+      "category": "早餐类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "5-10元",
+      "suitable_for_home": true,
+      "description": "营养早餐，开启美好一天",
+      "main_ingredients": [
+        "主料",
+        "配菜",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 180,
+        "protein": 10,
+        "fat": 8,
+        "carbs": 20
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "早餐类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233972",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "煎饼果子",
+      "category": "主食类",
+      "difficulty": "中等",
+      "cooking_time": "30分钟",
+      "price_range": "8-15元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "油炸",
+      "tags": [
+        "主食类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233983",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "茶叶蛋",
+      "category": "蛋类",
+      "difficulty": "简单",
+      "cooking_time": "10分钟",
+      "price_range": "6-12元",
+      "suitable_for_home": true,
+      "description": "新鲜蛋品，嫩滑可口，老少皆宜",
+      "main_ingredients": [
+        "鸡蛋",
+        "盐",
+        "食用油",
+        "葱花"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 12,
+        "fat": 10,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "蛋类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.233993",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "小米粥",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234004",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "柠檬茶",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234016",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "绿茶",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234028",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红茶",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234040",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "豆浆",
+      "category": "豆制品类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "12-20元",
+      "suitable_for_home": true,
+      "description": "优质豆制品，豆香浓郁，口感顺滑",
+      "main_ingredients": [
+        "豆制品",
+        "生抽",
+        "葱花",
+        "食用油"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 120,
+        "protein": 15,
+        "fat": 7,
+        "carbs": 5
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "豆制品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234050",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "果汁",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234060",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "奶茶",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234075",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "酸梅汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234085",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "绿豆汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234094",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "红豆汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234104",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "银耳汤",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234113",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "饮料",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234128",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "茶饮",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234139",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "果汁",
+      "category": "饮品类",
+      "difficulty": "简单",
+      "cooking_time": "5分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "清爽饮品，解渴消暑",
+      "main_ingredients": [
+        "主料",
+        "糖",
+        "水",
+        "冰块"
+      ],
+      "home_tips": "建议搭配其他菜品，营养更均衡",
+      "nutrition_info": {
+        "calories": 40,
+        "protein": 1,
+        "fat": 0,
+        "carbs": 8
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "饮品类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234150",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "春卷",
+      "category": "小吃凉菜类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "10-18元",
+      "suitable_for_home": true,
+      "description": "精致小食，口感丰富，开胃爽口",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "辣椒油",
+        "香菜"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 140,
+        "protein": 6,
+        "fat": 8,
+        "carbs": 12
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "小吃凉菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234161",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "汤圆",
+      "category": "汤类",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-25元",
+      "suitable_for_home": true,
+      "description": "精心熬制，营养丰富，温暖身心",
+      "main_ingredients": [
+        "主料",
+        "生姜",
+        "盐",
+        "料酒",
+        "清水"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 80,
+        "protein": 12,
+        "fat": 3,
+        "carbs": 2
+      },
+      "popularity": 7,
+      "seasonality": "秋冬",
+      "cooking_method": "其他",
+      "tags": [
+        "汤品",
+        "汤类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234171",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "粽子",
+      "category": "小吃凉菜类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "10-18元",
+      "suitable_for_home": true,
+      "description": "精致小食，口感丰富，开胃爽口",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "辣椒油",
+        "香菜"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 140,
+        "protein": 6,
+        "fat": 8,
+        "carbs": 12
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "小吃凉菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234182",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "月饼",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234192",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "饼干",
+      "category": "主食类",
+      "difficulty": "简单",
+      "cooking_time": "15分钟",
+      "price_range": "3-8元",
+      "suitable_for_home": true,
+      "description": "主食精品，饱腹感强，能量充足",
+      "main_ingredients": [
+        "主料",
+        "水",
+        "盐",
+        "调料"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 250,
+        "protein": 8,
+        "fat": 2,
+        "carbs": 50
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "主食类",
+        "快手菜"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234205",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "凉菜",
+      "category": "小吃凉菜类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "10-18元",
+      "suitable_for_home": true,
+      "description": "精致小食，口感丰富，开胃爽口",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "辣椒油",
+        "香菜"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 140,
+        "protein": 6,
+        "fat": 8,
+        "carbs": 12
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "小吃凉菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234217",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "凉拌菜",
+      "category": "小吃凉菜类",
+      "difficulty": "简单",
+      "cooking_time": "20分钟",
+      "price_range": "10-18元",
+      "suitable_for_home": true,
+      "description": "精致小食，口感丰富，开胃爽口",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "辣椒油",
+        "香菜"
+      ],
+      "home_tips": "可提前准备部分食材，提高效率",
+      "nutrition_info": {
+        "calories": 140,
+        "protein": 6,
+        "fat": 8,
+        "carbs": 12
+      },
+      "popularity": 7,
+      "seasonality": "春夏",
+      "cooking_method": "凉拌",
+      "tags": [
+        "快手菜",
+        "小吃凉菜类"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234229",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "小菜",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "选用新鲜食材，口感更佳",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234241",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "泡菜",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "可根据个人口味调整调料用量",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234253",
+      "source": "lxj_report_analysis"
+    },
+    {
+      "name": "腌菜",
+      "category": "其他",
+      "difficulty": "简单",
+      "cooking_time": "30分钟",
+      "price_range": "15-30元",
+      "suitable_for_home": true,
+      "description": "经典菜品，制作精良，口感独特",
+      "main_ingredients": [
+        "主料",
+        "调料",
+        "食用油"
+      ],
+      "home_tips": "制作过程要注意卫生安全",
+      "nutrition_info": {
+        "calories": 150,
+        "protein": 10,
+        "fat": 5,
+        "carbs": 15
+      },
+      "popularity": 7,
+      "seasonality": "全年",
+      "cooking_method": "其他",
+      "tags": [
+        "快手菜",
+        "其他"
+      ],
+      "extracted_at": "2025-09-22T21:40:26.234265",
+      "source": "lxj_report_analysis"
+    }
+  ],
+  "statistics": {
+    "total_dishes": 229,
+    "category_distribution": {
+      "汤类": 35,
+      "禽肉类": 29,
+      "其他": 40,
+      "鱼类": 21,
+      "蔬菜类": 26,
+      "畜肉类": 15,
+      "豆制品类": 12,
+      "蛋类": 10,
+      "主食类": 26,
+      "早餐类": 3,
+      "饮品类": 8,
+      "小吃凉菜类": 4
+    },
+    "difficulty_distribution": {
+      "简单": 179,
+      "中等": 28,
+      "困难": 22
+    },
+    "home_cookable_count": 229,
+    "price_ranges": {
+      "10元以下": 162,
+      "10-20元": 7,
+      "20-30元": 19,
+      "30元以上": 41
+    },
+    "cooking_time_distribution": {
+      "15分钟以内": 54,
+      "15-30分钟": 80,
+      "30-60分钟": 1,
+      "60分钟以上": 94
+    }
+  }
+}
